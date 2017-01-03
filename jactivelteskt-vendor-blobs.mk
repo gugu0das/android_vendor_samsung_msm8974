@@ -302,7 +302,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jactivelteskt/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
     vendor/samsung/jactivelteskt/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd:system/vendor/firmware/bcm2079xB4_firmware.ncd \
     vendor/samsung/jactivelteskt/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd:system/vendor/firmware/bcm2079xB4_pre_firmware.ncd \
-    vendor/samsung/jactivelteskt/proprietary/vendor/firmware/bcm4335_V0346.0365.hcd:system/vendor/firmware/bcm4335_V0346.0365.hcd \
     vendor/samsung/jactivelteskt/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/samsung/jactivelteskt/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
     vendor/samsung/jactivelteskt/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
