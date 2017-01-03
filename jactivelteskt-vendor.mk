@@ -225,7 +225,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jactivelteskt/proprietary/lib/libvdis.so:system/lib/libvdis.so \
     vendor/samsung/jactivelteskt/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd:system/vendor/firmware/bcm2079xB4_firmware.ncd \
     vendor/samsung/jactivelteskt/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd:system/vendor/firmware/bcm2079xB4_pre_firmware.ncd \
-    vendor/samsung/jactivelteskt/proprietary/vendor/firmware/bcm4335_V0346.0365.hcd:system/vendor/firmware/bcm4335_V0346.0365.hcd \
     vendor/samsung/jactivelteskt/proprietary/vendor/lib/C13QL_libchromatix_s5k3l2xx_vt.so:system/vendor/lib/C13QL_libchromatix_s5k3l2xx_vt.so \
     vendor/samsung/jactivelteskt/proprietary/vendor/lib/C13QL_libchromatix_s5k3l2xx_vt_hd.so:system/vendor/lib/C13QL_libchromatix_s5k3l2xx_vt_hd.so \
     vendor/samsung/jactivelteskt/proprietary/vendor/lib/C13QS_libchromatix_imx135_vt.so:system/vendor/lib/C13QS_libchromatix_imx135_vt.so \
