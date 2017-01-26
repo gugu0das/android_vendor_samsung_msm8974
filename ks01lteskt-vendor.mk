@@ -18,7 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/ks01lteskt/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/samsung/ks01lteskt/proprietary/bin/efsks:system/bin/efsks \
     vendor/samsung/ks01lteskt/proprietary/bin/irsc_util:system/bin/irsc_util \
-    vendor/samsung/ks01lteskt/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so \
     vendor/samsung/ks01lteskt/proprietary/bin/ks:system/bin/ks \
     vendor/samsung/ks01lteskt/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/samsung/ks01lteskt/proprietary/bin/mpdecision:system/bin/mpdecision \
