@@ -268,6 +268,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jactivelteskt/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/samsung/jactivelteskt/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/samsung/jactivelteskt/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
+		vendor/samsung/jactivelteskt/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
+    vendor/samsung/jactivelteskt/proprietary/vendor/lib/libaptXScheduler.so:system/vendor/lib/libaptXScheduler.so \
     vendor/samsung/jactivelteskt/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/samsung/jactivelteskt/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so \
     vendor/samsung/jactivelteskt/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
