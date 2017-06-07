@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hltekor/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/samsung/hltekor/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/hltekor/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/samsung/hltekor/proprietary/bin/sensorhubservice:system/bin/sensorhubservice \
     vendor/samsung/hltekor/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/samsung/hltekor/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/samsung/hltekor/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
@@ -225,7 +224,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hltekor/proprietary/lib/libchromatix_s5k6b2yx_vt.so:system/lib/libchromatix_s5k6b2yx_vt.so \
     vendor/samsung/hltekor/proprietary/lib/libchromatix_s5k6b2yx_vt_hd.so:system/lib/libchromatix_s5k6b2yx_vt_hd.so \
     vendor/samsung/hltekor/proprietary/lib/libchromatix_s5k6b2yx_zslshot.so:system/lib/libchromatix_s5k6b2yx_zslshot.so \
-    vendor/samsung/hltekor/proprietary/lib/libgnustl_shared.so:system/lib/libgnustl_shared.so \
     vendor/samsung/hltekor/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/samsung/hltekor/proprietary/lib/libliveframework.so:system/lib/libliveframework.so \
     vendor/samsung/hltekor/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
@@ -244,14 +242,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hltekor/proprietary/lib/libqomx_jpegenc.so:system/lib/libqomx_jpegenc.so \
     vendor/samsung/hltekor/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/hltekor/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/hltekor/proprietary/lib/libsam.so:system/lib/libsam.so \
-    vendor/samsung/hltekor/proprietary/lib/libsensirion_j1.so:system/lib/libsensirion_j1.so \
     vendor/samsung/hltekor/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/hltekor/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/hltekor/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
-    vendor/samsung/hltekor/proprietary/lib/libsensorhub.so:system/lib/libsensorhub.so \
-    vendor/samsung/hltekor/proprietary/lib/libsensorhubcontext.so:system/lib/libsensorhubcontext.so \
-    vendor/samsung/hltekor/proprietary/lib/libsensorhubservice.so:system/lib/libsensorhubservice.so \
+    vendor/samsung/hltekor/proprietary/lib/libsensirion_h_11.so:system/lib/libsensirion_h_11.so \
     vendor/samsung/hltekor/proprietary/lib/libvdis.so:system/lib/libvdis.so \
 		vendor/samsung/hltekor/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd:system/vendor/firmware/bcm2079xB4_firmware.ncd \
 		vendor/samsung/hltekor/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd:system/vendor/firmware/bcm2079xB4_pre_firmware.ncd \
@@ -360,8 +354,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hltekor/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
     vendor/samsung/hltekor/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
     vendor/samsung/hltekor/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
-    vendor/samsung/hltekor/proprietary/vendor/lib/libqcgesture.so:system/vendor/lib/libqcgesture.so \
-    vendor/samsung/hltekor/proprietary/vendor/lib/libqcsyncgesture.so:system/vendor/lib/libqcsyncgesture.so \
     vendor/samsung/hltekor/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/samsung/hltekor/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
     vendor/samsung/hltekor/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
