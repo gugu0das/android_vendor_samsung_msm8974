@@ -253,8 +253,16 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hltekor/proprietary/lib/libsensorhubcontext.so:system/lib/libsensorhubcontext.so \
     vendor/samsung/hltekor/proprietary/lib/libsensorhubservice.so:system/lib/libsensorhubservice.so \
     vendor/samsung/hltekor/proprietary/lib/libvdis.so:system/lib/libvdis.so \
-    vendor/samsung/hltekor/proprietary/vendor/firmware/bcm4335_V0093.0399.hcd:system/vendor/firmware/bcm4335_V0093.0399.hcd \
-		vendor/samsung/hltekor/proprietary/vendor/firmware/bcm4335_V0093.0399_wisol.hcd:system/vendor/firmware/bcm4335_V0093.0399_wisol.hcd \
+		vendor/samsung/hltekor/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd:system/vendor/firmware/bcm2079xB4_firmware.ncd \
+		vendor/samsung/hltekor/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd:system/vendor/firmware/bcm2079xB4_pre_firmware.ncd \
+		vendor/samsung/hltekor/proprietary/vendor/firmware/bcm2079xB5_firmware.ncd:system/vendor/firmware/bcm2079xB5_firmware.ncd \
+		vendor/samsung/hltekor/proprietary/vendor/firmware/bcm2079xB5_pre_firmware.ncd:system/vendor/firmware/bcm2079xB5_pre_firmware.ncd \
+		vendor/samsung/hltekor/proprietary/vendor/firmware/bcm4335_V0111.0559.hcd:system/vendor/firmware/bcm4335_V0111.0559.hcd \
+		vendor/samsung/hltekor/proprietary/vendor/firmware/bcm4335_V0111.0559_murata.hcd:system/vendor/firmware/bcm4335_V0111.0559_murata.hcd \
+		vendor/samsung/hltekor/proprietary/vendor/firmware/bcm4335_V0111.0559_semco.hcd:system/vendor/firmware/bcm4335_V0111.0559_semco.hcd \
+		vendor/samsung/hltekor/proprietary/vendor/firmware/bcm4335_V0111.0559_semcosh.hcd:system/vendor/firmware/bcm4335_V0111.0559_semcosh.hcd \
+		vendor/samsung/hltekor/proprietary/vendor/firmware/bcm4335_V0111.0559_semcove.hcd:system/vendor/firmware/bcm4335_V0111.0559_semcove.hcd \
+		vendor/samsung/hltekor/proprietary/vendor/firmware/bcm4335_V0111.0559_wisol.hcd:system/vendor/firmware/bcm4335_V0111.0559_wisol.hcd \
     vendor/samsung/hltekor/proprietary/vendor/lib/C13QL_libchromatix_s5k3l2xx_vt.so:system/vendor/lib/C13QL_libchromatix_s5k3l2xx_vt.so \
     vendor/samsung/hltekor/proprietary/vendor/lib/C13QL_libchromatix_s5k3l2xx_vt_hd.so:system/vendor/lib/C13QL_libchromatix_s5k3l2xx_vt_hd.so \
     vendor/samsung/hltekor/proprietary/vendor/lib/C13QS_libchromatix_imx135_vt.so:system/vendor/lib/C13QS_libchromatix_imx135_vt.so \
